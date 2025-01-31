@@ -26,6 +26,7 @@ python solution.py
 The repository is organized into folders by day:
 
 - Day 1: Historian Hysteria \[[Task](./D1/task.md) | [Input](./D1/input.txt) | [Solution](./D1/solution.py) | [Web](https://adventofcode.com/2024/day/1)\]
+- Day 2: Red-Nosed Reports \[[Task](./D2/task.md) | [Input](./D2/input.txt) | [Solution](./D2/solution.py) | [Web](https://adventofcode.com/2024/day/2)\]
 
 ## 🤝 Contributions
 
