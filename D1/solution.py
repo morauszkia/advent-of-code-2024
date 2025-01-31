@@ -41,7 +41,8 @@ def count_occurence(item, list):
 def calculate_similarity(list1, list2):
     """
     Calculates a similarity score between two lists by multiplying each element
-    in list1 by the number of times it appears in list2 and summing the results.
+    in list1 by the number of times it appears in list2 and summing the
+    results.
 
     Args:
         list1 (list): The first list of integers.
