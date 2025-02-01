@@ -28,6 +28,7 @@ The repository is organized into folders by day:
 - Day 1: Historian Hysteria \[[Task](./D1/task.md) | [Input](./D1/input.txt) | [Solution](./D1/solution.py) | [Web](https://adventofcode.com/2024/day/1)\]
 - Day 2: Red-Nosed Reports \[[Task](./D2/task.md) | [Input](./D2/input.txt) | [Solution](./D2/solution.py) | [Web](https://adventofcode.com/2024/day/2)\]
 - Day 3: Mull It Over \[[Task](./D3/task.md) | [Input](./D3/input.txt) | [Solution](./D3/solution.py) | [Web](https://adventofcode.com/2024/day/3)\]
+- Day 4: Ceres Search \[[Task](./D4/task.md) | [Input](./D4/input.txt) | [Solution](./D4/solution.py) | [Web](https://adventofcode.com/2024/day/4)\]
 
 ## 🤝 Contributions
 
