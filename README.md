@@ -29,6 +29,7 @@ The repository is organized into folders by day:
 - Day 2: Red-Nosed Reports \[[Task](./D2/task.md) | [Input](./D2/input.txt) | [Solution](./D2/solution.py) | [Web](https://adventofcode.com/2024/day/2)\]
 - Day 3: Mull It Over \[[Task](./D3/task.md) | [Input](./D3/input.txt) | [Solution](./D3/solution.py) | [Web](https://adventofcode.com/2024/day/3)\]
 - Day 4: Ceres Search \[[Task](./D4/task.md) | [Input](./D4/input.txt) | [Solution](./D4/solution.py) | [Web](https://adventofcode.com/2024/day/4)\]
+- Day 5: Print Queue \[[Task](./D5/task.md) | [Input](./D5/input.txt) | [Solution](./D5/solution.py) | [Web](https://adventofcode.com/2024/day/5)\]
 
 ## 🤝 Contributions
 
